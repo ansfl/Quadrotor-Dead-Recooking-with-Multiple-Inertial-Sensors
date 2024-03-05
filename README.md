@@ -35,12 +35,13 @@ All datasets on this page are published under the [Creative Commons Attribution 
 # Cite Us
 If you found the experimental DATA useful for your research, please cite our paper:
 
- @article{mimuquadnet2023,
-  title={Quadrotor Dead Reckoning with Multiple Inertial Sensors},   
-  author = {Hurwitz, Dror and Klein, Itzik},   
-  journal={arXiv preprint arXiv:2310.13452},   
-  url = {https://arxiv.org/abs/2310.13452},   
-  year={2023}
+ @inproceedings{hurwitz2023quadrotor,
+  title={Quadrotor Dead Reckoning with Multiple Inertial Sensors},
+  author={Hurwitz, Dror and Klein, Itzik},
+  booktitle={2023 DGON Inertial Sensors and Systems (ISS)},
+  pages={1--18},
+  year={2023},
+  organization={IEEE}
 }
  ```
  
